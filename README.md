@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React-Js**
 
-- 👨‍💻 All of my projects are available at [The-Mamrez.ir/Projects](The-Mamrez.ir/Projects)
+- 👨‍💻 All of my projects are available at [TheMamrez.ir/Projects](The-Mamrez.ir/Projects)
 
-- 📝 I regularly write articles on [The-Mamrez.ir/Blog](The-Mamrez.ir/Blog)
+- 📝 I regularly write articles on [TheMamrez.ir/Blog](The-Mamrez.ir/Blog)
 
-- 📫 How to reach me **The-Mamrez.ir**
+- 📫 How to reach me **TheMamrez.ir**
 
-- 📄 Know about my experiences [The-Mamrez.ir/Resume](The-Mamrez.ir/Resume)
+- 📄 Know about my experiences [TheMamrez.ir/Resume](The-Mamrez.ir/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

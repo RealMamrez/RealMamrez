@@ -1,17 +1,17 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+%2C+I%27m+Mohammad;Welcome+to+my+github+Page;I%27m+Front-end+Developer;Also+you+can+check+my+site;The-Mamrez.ir" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+%2C+I%27m+Mohammad;Welcome+to+my+github+Page;I%27m+Front-end+Developer;Also+you+can+check+my+site;mamrez.dev" alt="Typing SVG" /></h1>
 <h3 align="center">A passionate frontend developer from IRAN</h3>
 
 - 🔭 I’m currently working on **Blu-Assistant**
 
 - 🌱 I’m currently learning **React-Js**
 
-- 👨‍💻 All of my projects are available at [TheMamrez.ir/Projects](The-Mamrez.ir/Projects)
+- 👨‍💻 All of my projects are available at [mamrez.dev](mamrez.dev)
 
-- 📝 I regularly write articles on [TheMamrez.ir/Blog](The-Mamrez.ir/Blog)
+- 📝 I regularly write articles on [mamrez.dev](mamrez.dev)
 
-- 📫 How to reach me **TheMamrez.ir**
+- 📫 How to reach me **mamrez.dev**
 
-- 📄 Know about my experiences [TheMamrez.ir/Resume](The-Mamrez.ir/Resume)
+- 📄 Know about my experiences [mamrez.dev](mamrez.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
